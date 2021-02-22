@@ -1,1 +1,1 @@
-### Recopilación de los distintos DF usados para realizar la investigación.
+### Recopilación de las distintas BD usadas para realizar la investigación.
