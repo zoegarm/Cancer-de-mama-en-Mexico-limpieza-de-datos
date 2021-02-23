@@ -13,7 +13,7 @@ De igual forma en el documento se señala la importancia de tratar tres tipos de
 imágen tomada de Mi Diario Morelos.
 
 
-Este comportamiento también puede apreciarse en México, donde el cáncer ocupa el 16% del total de defunciones (INEGI, 2020 con datos del 2018) y donde cada año se estiman 35.24 casos nuevos por una población de 100 mil mujeres. 
+Este comportamiento también puede apreciarse en México, donde el cáncer ocupa el 16% del total de defunciones (INEGI, 2020 con datos del 2018) y donde cada año se estiman 35.24 casos nuevos por una población de 100 mil mujeres y donde a nivel nacional, la tasa de mortalidad por cáncer de mama es de 17.19 defunciones por cada 100 mil mujeres de 20 años o más.
 
 ### Es por esto que surge la necesidad de cuestionar lo siguiente: 
 
