@@ -10,6 +10,7 @@ De igual forma en el documento se señala la importancia de tratar tres tipos de
 
 <p align="center">
   <img src="/img/imágenes/portada.jpg" "imagen_tomada_de_Mi_Diario_Morelos" alt="NF"/>
+  <imágen tomada de Mi Diario Morelos>
 </p>
 
 Este comportamiento también puede apreciarse en México, donde el cáncer ocupa el 16% del total de defunciones (INEGI, 2020 con datos del 2018) y donde cada año se estiman 35.24 casos nuevos por una población de 100 mil mujeres. 
