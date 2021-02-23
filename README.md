@@ -18,7 +18,8 @@ Este comportamiento también puede apreciarse en México, donde el cáncer ocupa
 ### Es por esto que surge la necesidad de cuestionar lo siguiente: 
 
 - [¿Cómo ha sido el crecimiento en la incidencia del cáncer de mama?](pregunta_1/)
-- [¿Qué es lo que motiva la incidencia del cáncer de mama en mujeres?](pregunta_2/)
-- [¿Qué países han logrado manejar el problema de manera adecuada?](pregunta_3/)
-- [Hipótesis: ¿Está México consiente de la problemática que trae consigo este problema de salud?](pregunta_4/)
-- [¿Qué estrategias podría tomar méxico para controlar este problema de manera más eficaz?](pregunta_5/)
+- [¿Hay alguna relación con la economía de un país y su incidencia con el cáncer?](pregunta_2/)
+- [¿Qué es lo que motiva la incidencia del cáncer de mama en mujeres?](pregunta_3/)
+- [¿Qué países han logrado manejar el problema de manera adecuada?](pregunta_4/)
+- [Hipótesis: ¿Está México consiente de la problemática que trae consigo este problema de salud?](pregunta_5/)
+- [¿Qué estrategias podría tomar méxico para controlar este problema de manera más eficaz?](pregunta_6/)
