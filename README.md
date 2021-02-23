@@ -21,4 +21,4 @@ Este comportamiento también puede apreciarse en México, donde el cáncer ocupa
 - [¿Qué es lo que motiva la incidencia del cáncer de mama en mujeres?](pregunta_2/)
 - [¿Qué países han logrado manejar el problema de manera adecuada?](pregunta_3/)
 - [Hipótesis: ¿Está México consiente de la problemática que trae consigo este problema de salud?](pregunta_4/)
-- [¿Qué estrategias podría tomar méxico para controlar este problema de manera más eficas?](pregunta_5/)
+- [¿Qué estrategias podría tomar méxico para controlar este problema de manera más eficaz?](pregunta_5/)
