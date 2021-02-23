@@ -1,1 +1,1 @@
-## ¿Cuál ha sido el crecimiento en la incidencia debido al cáncer de mama?
+## ¿Cómo ha sido el crecimiento en la incidencia del cáncer de mama?
