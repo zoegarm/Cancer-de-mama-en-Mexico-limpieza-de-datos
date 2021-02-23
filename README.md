@@ -9,7 +9,7 @@ Según datos de la OMS (o WHO por sus iniciales en inglés), el total de casos h
 De igual forma en el documento se señala la importancia de tratar tres tipos de cáncer, entre los que destaca el cáncer de mama, que es responsable del 6.6% de las muertes totales. Además de esto se indica que el cáncer de mama es el cáncer que se diagnostica con mayor frecuencia en mujeres con un 24.2% del total, esto es uno de cada cuatro casos, mientras que para el total de afectados con esta enfermedad (en su mayoría mujeres), es el responsable del 15% del total de las muertes ocacionadas a un tipo de cáncer. (IARC a través de WHO) [1]
 
 <p align="center">
-<img src="/img/imágenes/portada.jpg" "imagen tomada de Mi Diario Morelos""imagen tomada de Mi Diario Morelos"/>
+<img src="/img/imágenes/portada.jpg" "imagen tomada de Mi Diario Morelos" alt="imagen tomada de Mi Diario Morelos"/>
 </p>
 
 Este comportamiento también puede apreciarse en México, donde el cáncer ocupa el 16% del total de defunciones (INEGI, 2020 con datos del 2018) y donde cada año se estiman 35.24 casos nuevos por una población de 100 mil mujeres. 
