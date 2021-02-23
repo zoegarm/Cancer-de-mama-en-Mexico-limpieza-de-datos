@@ -1,4 +1,4 @@
-# Cáncer de mama: 
+# Cáncer de mama en México: 
 
 El cáncer es la categoría en la cual se engloban un conjunto de enfermedades, las cuales tienen en común el proceso descontrolado del crecimiento celular de la zona afectada y posteriormente su diseminación en el organismo. 
 
@@ -17,7 +17,7 @@ Este comportamiento también puede apreciarse en México, donde el cáncer ocupa
 ### Es por esto que surge la necesidad de cuestionar lo siguiente: 
 
 - [¿Cómo ha sido el crecimiento en la incidencia del cáncer de mama?](pregunta_1/)
-- [¿Qué es lo que motiva la incidencia del cáncer de mama en mujeres?]
-- [¿Qué países han logrado manejar el problema de manera adecuada?]
-- [Hipótesis: ¿Está México consiente de la problemática que trae consigo este problema de salud?]
-- [¿Qué estrategias podría tomar méxico para controlar este problema de manera más eficas?]
+- [¿Qué es lo que motiva la incidencia del cáncer de mama en mujeres?](pregunta_2/)
+- [¿Qué países han logrado manejar el problema de manera adecuada?](pregunta_3/)
+- [Hipótesis: ¿Está México consiente de la problemática que trae consigo este problema de salud?](pregunta_4/)
+- [¿Qué estrategias podría tomar méxico para controlar este problema de manera más eficas?](pregunta_5/)
