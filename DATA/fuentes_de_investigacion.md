@@ -9,3 +9,5 @@ https://www.inegi.org.mx/contenidos/saladeprensa/aproposito/2021/cancer2021_Nal.
 https://www.who.int/topics/cancer/es/
 
 https://apps.who.int/iris/bitstream/handle/10665/44022/9789243547114_spa.pdf;jsessionid=91AEBDA1E532863DBDA78690D0F4A128?sequence=1
+
+SALUD, Dirección General de Epidemiología (DGE). (2020). Anuarios de Morbilidad 1984-2019. Disponible en: https://epidemiologia.salud.gob.mx/anuario/html/incidencia_enfermedad.html
