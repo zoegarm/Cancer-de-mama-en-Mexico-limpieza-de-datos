@@ -1,11 +1,7 @@
-## ¿Cuál es la relación entre los gastos de salud y los resultados en su política en la lucha contra el cáncer?
+## 2. ¿Cuál es la relación entre los gastos de salud y los resultados en su política en la lucha contra el cáncer?
 
-En este apartado revisaremos cual ha sido el actuar gubernamental en torno a la dotación de presupuesto para combatir esta enfermedad. Para ello, analizaremos dons conjuntos de datos. En primer lugar, la designación de presupuesto para la salud en México por estado de la República, la base de datos comprende el periodo 1993-2017. En segundo lugar, la tasa y números absolutos de mortalidad por cáncer de mama por estado de la República de 200 a 2015. La fuente de ambas bases de datos es la Secretaría de Salud federal.
-
-1. Primero se realizó la lectura de las bases de datos desde este repositorio de Github.
-2. Posteriormente se revisó la estructura del DataFrame.
-3. Se limpió la base de datos. Este proceso incluyó: el cambio del tipo de datos, el cambio de índice, el conteo de NaN y la eliminación de columnas y filas.
-4. Después se realizó el análisis exploratorio de datos.
+#### **Introducción**
+En este apartado revisaremos cual ha sido el actuar gubernamental en torno a la dotación de presupuesto para combatir esta enfermedad. Para ello, analizaremos dons conjuntos de datos. En primer lugar, la designación de presupuesto para la salud en México por estado de la República, la base de datos comprende el periodo 1993-2017. En segundo lugar, la tasa y números absolutos de mortalidad por cáncer de mama por estado de la República de 200 a 2015. La fuente de ambas bases de datos es la Secretaría de Salud (SSA).
 
 #### **Contexto del estudio y su importancia**
 El cáncer es un grupo de muchas enfermedades relacionadas que empiezan en las células cuando presentan daños. Normalmente las células crecen y se reproducen para generar más y mantener sano el cuerpo. Algunas veces este proceso ordenado se descontrola: nuevas células se siguen formando, aunque el cuerpo no las necesite y las viejas no mueren cuando deberían. 
@@ -24,5 +20,19 @@ Entre el 30% y el 50% de los padecimientos de cáncer se pueden evitar (Juntos 
 - - Detección oportuna
 - - Tratamiento de los pacientes
 
-Por lo anterior, para poder combatir la incidencia y mortalidad del cáncer, se requiere de la sinergia entre la sociedad, los organismos de la sociedad civil, el sector productivo y el gobierno.
-En este apartado revisaremos cual ha sido el actuar gubernamental en torno a la dotación de presupuesto para combatir esta enfermedad y en el siguiente, cómo se compara su desempeño con el resto de países.
+En resumen, para poder combatir la incidencia y mortalidad del cáncer, se requiere por un lado, atender los factores desencadenantes y por el otro, aplicar una política pública que incluya la detección temprana y efectiva del cáncer así como su tratamiento. Para todo ello, se requieren recursos materiales y humanos enfocados en la salud. En esta sección indagaremos cual ha sido el presupuesto para salud por Estado de la República y lo relacionaremos con los indicadores de mortalidad por cancer de mama con el fin de dilucidar si la dotación de presupuesto para combatir esta enfermedad ha sido adecuada.
+
+#### **Desarrollo**
+En primer lugar, realizamos una búsqueda de información sobre el tema, con el fin conocer más a fondo la problemática e identificar bases de datos útiles para responder a la pregunta de investigación. En segundo lugar, obtuvimos las bases de datos y as almacenamos en el repositorio para su análisis. En tercer lugar, implementamos el tratamiento de los datos. A continuación se describe el procesamiento de datos aplicados. 
+
+1. Lectura de las bases de datos almacenadas en la carpeta DATA de este repositorio de Github.
+2. Revisión de la estructura de los DataFrame.
+3. Limpieza de las base de datos:
+- - Renombrado de columnas,
+- - Cambio del tipo de datos,
+- - Cambio de índices, 
+- - Conteo y eliminación de NaN,
+- - Eliminación de columnas y filas.
+4. Análisis exploratorio de datos:
+- - Agregaciones,
+- - Agrupamientos.
