@@ -17,22 +17,38 @@ Las células excesivas forman una masa de tejido que se llama tumor. No todos lo
 Entre el 30% y el 50% de los padecimientos de cáncer se pueden evitar (Juntos contra el cáncer, 2021). Por ello es necesario:
 - Reducir los factores de riesgo
 - Aplicar estrategias preventivas con base científica
-- - Detección oportuna
-- - Tratamiento de los pacientes
+   - Detección oportuna
+   - Tratamiento de los pacientes
 
-En resumen, para poder combatir la incidencia y mortalidad del cáncer, se requiere por un lado, atender los factores desencadenantes y por el otro, aplicar una política pública que incluya la detección temprana y efectiva del cáncer así como su tratamiento. Para todo ello, se requieren recursos materiales y humanos enfocados en la salud. En esta sección indagaremos cual ha sido el presupuesto para salud por Estado de la República y lo relacionaremos con los indicadores de mortalidad por cancer de mama con el fin de dilucidar si la dotación de presupuesto para combatir esta enfermedad ha sido adecuada.
+En resumen, para poder combatir la incidencia y mortalidad del cáncer, se requiere por un lado, atender los factores desencadenantes y por el otro, aplicar una política pública que incluya la detección temprana y efectiva del cáncer así como su tratamiento. Para todo ello, se requieren recursos materiales y humanos enfocados en la salud. En esta sección indagaremos cual ha sido el presupuesto para salud por Estado de la República y lo relacionaremos con los indicadores de mortalidad por cáncer de mama con el fin de dilucidar si la dotación de presupuesto para combatir esta enfermedad ha sido adecuada.
 
 #### **Desarrollo**
-En primer lugar, realizamos una búsqueda de información sobre el tema, con el fin conocer más a fondo la problemática e identificar bases de datos útiles para responder a la pregunta de investigación. En segundo lugar, obtuvimos las bases de datos y as almacenamos en el repositorio para su análisis. En tercer lugar, implementamos el tratamiento de los datos. A continuación se describe el procesamiento de datos aplicados. 
+En primer lugar, realizamos una búsqueda de información sobre el tema, con el fin conocer más a fondo la problemática e identificar bases de datos útiles para responder a la pregunta de investigación. En segundo lugar, obtuvimos las bases de datos y las almacenamos en el repositorio para su análisis. En tercer lugar, implementamos el tratamiento de los datos. A continuación se describe el procesamiento de datos aplicados. 
 
 1. Lectura de las bases de datos almacenadas en la carpeta DATA de este repositorio de Github.
 2. Revisión de la estructura de los DataFrame.
 3. Limpieza de las base de datos:
-- - Renombrado de columnas,
-- - Cambio del tipo de datos,
-- - Cambio de índices, 
-- - Conteo y eliminación de NaN,
-- - Eliminación de columnas y filas.
-4. Análisis exploratorio de datos:
-- - Agregaciones,
-- - Agrupamientos.
+   - Renombrado de columnas,
+   - Cambio del tipo de datos,
+   - Cambio de índices, 
+   - Conteo y eliminación de NaN,
+   - Eliminación de columnas y filas.
+4. Procesamiento y análisis exploratorio de datos:
+   - Agregaciones,
+   - Agrupamientos.
+
+
+#### Referencias:
+
+Infocáncer (2021). "¿Qué es el cáncer" en Infocáncer México, Secretaría de Salud, México. Recuperado de: https://www.infocancer.org.mx/?c=conocer-el-cancer&a=que-es
+
+Juntos contra el Cáncer (2021). "Panorama del cáncer en México" en Juntos Contra el Cáncer, México. Recuperado de: https://juntoscontraelcancer.mx/panorama-del-cancer-en-mexico/
+
+OMS (2014). "World Cancer Report 2014". Elaborado por Stewart, Bernard W, y Wild, Chris, IARC, Organización Mundial de la Salud. Recuperado de: https://shop.iarc.fr/products/world-cancer-report-2014
+
+SMeO (2016). "Prevención y diagnóstico oportuno en cáncer", Sociedad Mexicana de Oncología, México. Recuperado de: https://www.smeo.org.mx/descargables/COPREDOC_GUIA.pdf
+
+#### Bases de datos:
+DGIS (9 de mayo de 2019). “Gasto en Salud, 1993-2017 (miles de pesos constantes, 2017=100)”, Dirección General de Información en Salud (DGIS) Secretaría de Salud (SSA), México. Recuperado de: http://www.dgis.salud.gob.mx/descargas/xls/1._GFF_01_2017_A_CONS_O.xlsx 
+
+DGIS (2 de diciembre de 2016). "Defunciones de mujeres de 25 años y más por tumor maligno de mama (C50), 2000-2015", Dirección General de Información en Salud (DGIS) Secretaría de Salud (SSA), México. Recuperado de: https://www.gob.mx/cms/uploads/attachment/file/269549/MortalidadCaMa2000a2015.pdf
