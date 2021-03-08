@@ -31,7 +31,7 @@ Global Cancer Observatory (2020). “Predicted Global Cancer Burden in 2040”, 
 
 OCDE (2013), “Multilingual Summaries. Cancer Care. Assuring Quality to Improve Survival”, Paris: OECD Publishing. Recuperado de: https://www.oecd-ilibrary.org/docserver/9789264181052-sum-es.pdf?expires=1615176128&id=id&accname=guest&checksum=37764D7F6495F9BA44946F4EE818B4E2 
 
-#### Baes de datos:
+#### Bases de datos:
 OCDE (1 de julio de 2020). “Health Status: Cancer”, OECD Statistics technology, Organización para la Cooperación y el Desarrollo Económico (OCDE). Recuperado de:
 https://stats.oecd.org/index.aspx?queryid=30121#
 
