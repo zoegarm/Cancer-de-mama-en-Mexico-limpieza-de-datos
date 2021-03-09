@@ -1,6 +1,6 @@
 ## 1. ¿Cómo ha sido el crecimiento en la incidencia del cáncer de mama?
 
-Desde 2017, se sabe que de cada 100 pacientes de egresos hospitalarios, al menos 24 egresan debido a cancer de mama. Así, desde el 2011, en México, se ha registrado que la incidencia de cáncer de mama en la población en general solo ha aumentado. Lo que puede traer en un futuro problemas de salud pública. 
+Desde 2017, se sabe que de cada 100 pacientes de egresos hospitalarios, al menos 24 egresan debido a cáncer de mama. Así, desde el 2011, en México, se ha registrado que la incidencia de cáncer de mama en la población en general solo ha aumentado. Lo que puede traer en un futuro problemas de salud pública. 
 
 De igual forma, se ha registrado que la incidencia se presenta con más frecuencia mientras la edad de la afectada es más avanzada y que la tasa de letalidad también crece de manera lineal con la edad. 
 
