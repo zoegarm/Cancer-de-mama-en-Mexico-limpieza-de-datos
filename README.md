@@ -21,5 +21,5 @@ Este comportamiento también puede apreciarse en México, donde el cáncer ocupa
 - [¿Cuál es la relación entre los gastos de salud y los resultados en su política en la lucha contra el cáncer?](pregunta_2/)
 - [¿Qué factores influyen en la incidencia del cáncer de mama en mujeres?](pregunta_3/)
 - [¿Qué países han logrado manejar el problema de manera adecuada?](pregunta_4/)
-- [Hipótesis: ¿Está México consiente de la problemática que trae consigo este problema de salud?](pregunta_5/)
+- [Hipótesis: ¿Está México consciente de la problemática que trae consigo este problema de salud?](pregunta_5/)
 - [¿Qué estrategias podría tomar méxico para controlar este problema de manera más eficaz?](pregunta_6/)
